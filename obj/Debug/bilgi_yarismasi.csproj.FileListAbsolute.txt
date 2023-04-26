@@ -1,0 +1,11 @@
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\bin\Debug\bilgi_yarismasi.exe.config
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\bin\Debug\bilgi_yarismasi.exe
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\bin\Debug\bilgi_yarismasi.pdb
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.Form1.resources
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.Properties.Resources.resources
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.exe
+C:\Users\selin\Desktop\visualst\C#\bilgi_yarismasi\obj\Debug\bilgi_yarismasi.pdb
